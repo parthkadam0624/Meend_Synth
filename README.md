@@ -2,7 +2,8 @@
 
 A fully analog, touch-controlled synthesizer that converts touch position into audible pitch using **logarithmic signal conditioning** and **voltage-to-frequency conversion**. The system was designed and simulated in **Proteus 8**.
 
-![Circuit Schematic](circuit.png)
+<img width="812" height="623" alt="image" src="https://github.com/user-attachments/assets/35b461f5-6959-45cb-aa31-4a578095ebec" />
+
 
 ## Overview
 
